@@ -105,7 +105,7 @@ node-ip:  172.31.88.4
 advertise-address:  172.31.88.4
 tls-san:
   -  172.31.88.4
-  - 52.90.192.186
+  - 44.205.244.42
   - k3s-master-1
 disable: [servicelb, traefik]
 EOF
